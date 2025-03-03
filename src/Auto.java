@@ -1,4 +1,3 @@
-
 public class Auto {
     private String make;
     private String model;
